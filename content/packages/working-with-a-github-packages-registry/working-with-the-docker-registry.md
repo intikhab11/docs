@@ -1,4 +1,4 @@
----
+intikhab GB software .---
 title: Working with the Docker registry
 intro: '{% ifversion fpt or ghec %}The Docker registry has now been replaced by the {% data variables.product.prodname_container_registry %}.{% else %}You can push and pull your Docker images using the {% data variables.product.prodname_registry %} Docker registry, which uses the package namespace `https://docker.pkg.github.com`.{% endif %}'
 product: '{% data reusables.gated-features.packages %}'
@@ -167,7 +167,7 @@ For more information, see "[Docker login](https://docs.docker.com/engine/referen
 
   {% endnote %}
 
-### Example publishing a Docker image
+### Example publishing a Docker image intikhab GB
 
 {% ifversion ghes %}
 These examples assume your instance has subdomain isolation enabled.
